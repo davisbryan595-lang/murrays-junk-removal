@@ -43,7 +43,7 @@ export default function Navbar() {
                 }}
               />
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/murray-Yrs4dLBrpYbZB8Lr8IPd80Ia6AanTU.jpg"
+                src="/murray-removebg-preview.png"
                 alt="Murray's Junk Removal Logo"
                 fill
                 className="object-contain drop-shadow-lg group-hover:drop-shadow-[0_0_15px_rgba(255,140,0,0.6)] transition-all duration-300"
