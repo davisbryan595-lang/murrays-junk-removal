@@ -55,25 +55,25 @@ export default function Navbar() {
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-8">
             <button
-              onClick={() => scrollToSection("about")}
+              onClick={() => scrollToSection("about-section")}
               className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
             >
               About
             </button>
             <button
-              onClick={() => scrollToSection("services")}
+              onClick={() => scrollToSection("services-section")}
               className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
             >
               Services
             </button>
             <button
-              onClick={() => scrollToSection("gallery")}
+              onClick={() => scrollToSection("gallery-section")}
               className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
             >
               Gallery
             </button>
             <button
-              onClick={() => scrollToSection("pricing")}
+              onClick={() => scrollToSection("pricing-section")}
               className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
             >
               Pricing
