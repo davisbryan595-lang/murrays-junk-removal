@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <div className="mb-4 h-20 w-20 relative">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/murray-Yrs4dLBrpYbZB8Lr8IPd80Ia6AanTU.jpg"
+                src="/murray-removebg-preview.png"
                 alt="Murray's Junk Removal Logo"
                 fill
                 className="object-contain"
