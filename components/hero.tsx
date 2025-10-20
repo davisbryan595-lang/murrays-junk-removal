@@ -79,9 +79,10 @@ export default function Hero() {
             Book a Service
           </button>
           <button
-            className="w-full py-4 bg-gradient-to-r from-orange-500 to-blue-600 text-white font-bold text-lg rounded-lg hover:shadow-lg hover:shadow-orange-500/50 transition-all duration-300 transform hover:scale-105">
+            className="px-8 py-4 bg-gradient-to-r from-orange-500 to-blue-600 text-white font-bold text-lg rounded-lg hover:shadow-lg hover:shadow-orange-500/50 transition-all duration-300 transform hover:scale-105">
             Call Now: 502-558-3275
           </button>
+
 
         </div>
       </div>
